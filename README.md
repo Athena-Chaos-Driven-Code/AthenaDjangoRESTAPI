@@ -1,2 +1,6 @@
 # AthenaDjangoRESTAPI
-A framework to create REST API's with Django
+A framework to create REST APIs with Django
+
+```python
+import AthenaDjangoRESTAPI as adra
+```
