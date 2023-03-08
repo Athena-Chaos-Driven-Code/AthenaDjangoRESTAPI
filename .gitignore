@@ -1,8 +1,3 @@
-# PyCharm stuff
-.idea/
-secrets/
-.run/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -133,3 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.old/
+
+# PyCharm stuff
+.idea/
+secrets/
+.run/
+
+# Obsidian Stuff
+.obsidian/
